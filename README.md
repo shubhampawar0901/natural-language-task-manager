@@ -14,6 +14,9 @@ Transform your natural language into actionable tasks with a modern, mobile-resp
 - **Simple Setup**: Easy to run locally with clear environment variable configuration
 
 ---
+![image](https://github.com/user-attachments/assets/5de662c6-aa8c-4b45-88b6-7cc1c8881e3b)
+![image](https://github.com/user-attachments/assets/04aa1e37-f4b5-4b8f-9c19-b93b2f780bfc)
+
 
 ## Setup Instructions
 
